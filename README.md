@@ -3,10 +3,15 @@ Bu sistem, metinleri vektör embedding'e çevirip Weaviate veritabanına kaydede
 
 .env
 GEMINI_API_KEY=
+
 LANGCHAIN_API_KEY=
+
 LANGCHAIN_TRACING_V2=true
+
 LANGCHAIN_PROJECT=SIMPLELLM
+
 WEAVIATE_API_KEY=
+
 WEAVIATE_INDEX_NAME=
 
 WEAVIATE_URL = in main.py
