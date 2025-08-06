@@ -5,6 +5,7 @@
 Bu sistem, pdf'deki metinleri vektör embedding'e çevirip Weaviate veritabanına kaydeder. FastAPI üzerinden gelen sorgular da embed edilir, en ilgili belgeler veritabanından alınır. LangChain ve LangGraph ile bu içerikler LLM'e aktarılır ve bağlama dayalı akıllı cevaplar üretilir.
 
 .env
+
 GEMINI_API_KEY=
 
 LANGCHAIN_API_KEY=
