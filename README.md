@@ -22,3 +22,6 @@ WEAVIATE_API_KEY=
 WEAVIATE_INDEX_NAME=
 
 WEAVIATE_URL = in main.py
+
+
+![RAG Görseli](rag.png)
