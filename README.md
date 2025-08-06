@@ -23,7 +23,7 @@ LANGCHAIN_TRACING_V2=true
 LANGCHAIN_PROJECT=SIMPLELLM
 WEAVIATE_API_KEY=your_weaviate_key
 WEAVIATE_INDEX_NAME=your_index
-WEAVIATE_URL="your_url"  # main.py içinde yapılandırılır. 
+WEAVIATE_URL=your_url  # main.py içinde yapılandırılır. 
 ```
 
 
