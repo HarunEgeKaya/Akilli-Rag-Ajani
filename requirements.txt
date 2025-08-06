@@ -1,0 +1,13 @@
+pydantic==1.10.13
+langchain==0.1.14
+langchain-core==0.1.33
+langchain-google-genai
+python-dotenv==1.0.1
+google-cloud-aiplatform==1.45.0
+google-auth==2.26.1
+fastapi==0.110.0
+uvicorn==0.29.0
+langserve==0.0.36
+typing-extensions==4.5.0
+anyio==3.7.1
+sse_starlette==1.6.5
